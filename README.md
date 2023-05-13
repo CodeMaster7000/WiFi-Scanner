@@ -10,6 +10,8 @@ A Python program to display nearby wireless networks and their information. It's
 - `pandas` module
 - `scapy` module
 
+## Installations
+
 - To install `pandas`, simply run `pip install pandas`. 
 - To install `scapy`, either run `pip3 install scapy` OR clone the current development version from GitHub:
 
